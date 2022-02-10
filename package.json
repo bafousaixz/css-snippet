@@ -1,0 +1,26 @@
+{
+  "name": "css-snippet",
+  "displayName": "CSS Snippet",
+  "description": "Faster css code support",
+  "version": "0.1.6",
+  "publisher": "CSSSnippetC7",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.64.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "css",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "scss",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}

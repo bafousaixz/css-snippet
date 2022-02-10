@@ -1,0 +1,43 @@
+{
+  "center in flexbox": {
+    "prefix": "df-center",
+    "body": [
+      "display: flex;",
+      "justify-content: center;",
+      "align-items: center;"
+    ],
+    "description": ""
+  },
+
+  "Position absolute center": {
+    "prefix": "psa-center",
+    "body": [
+      "position: absolute;",
+      "top: 50%;",
+      "left: 50%;",
+      "transform: translate(-50%, -50%);"
+    ],
+    "description": "Position absolute center"
+  },
+
+  "Position absolute center X": {
+    "prefix": "psa-x",
+    "body": [
+      "position: absolute;",
+      "left: 50%;",
+      "transform: translateX(-50%);"
+    ],
+    "description": "Position absolute center X"
+  },
+
+  "Position absolute center Y": {
+    "prefix": "psa-y",
+    "body": [
+      "position: absolute;",
+      "top: 50%;",
+      "transform: translateY(-50%);"
+    ],
+    "description": "Position absolute center Y"
+  }
+
+}
