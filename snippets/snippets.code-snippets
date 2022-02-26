@@ -38,6 +38,40 @@
       "transform: translateY(-50%);"
     ],
     "description": "Position absolute center Y"
-  }
+  },
+
+  "text center": {
+    "prefix": "t-center",
+    "body": [
+      "text-align: center;"
+    ],
+    "description": "text center"
+  },
+
+  "font size 1rem": {
+    "prefix": "fsize-1",
+    "body": [
+      "font-size: 1rem;"
+    ],
+    "description": "font size 1rem"
+  },
+
+  "color black": {
+    "prefix": "c-black",
+    "body": [
+      "color: #000000;"
+    ],
+    "description": "color black"
+  },
+
+  "color while": {
+    "prefix": "c-while",
+    "body": [
+      "color: #FFFFFF;"
+    ],
+    "description": "color while"
+  },
+
+
 
 }

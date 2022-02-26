@@ -2,7 +2,7 @@
   "name": "css-snippet",
   "displayName": "CSS Snippet",
   "description": "Faster css code support",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "publisher": "CSSSnippetC7",
   "icon": "icon.png",
   "engines": {
