@@ -72,6 +72,53 @@
     "description": "color while"
   },
 
+  "content": {
+    "prefix": "content",
+    "body": [
+      "content: \"\""
+    ],
+    "description": "Content"
+  },
 
+  "border solid": {
+    "prefix": "border",
+    "body": [
+      "border: 1px solid"
+    ],
+    "description": "border solid"
+  },
+
+  "media max width": {
+    "prefix": "media-max",
+    "body": [
+      "@media (max-width: ) {",
+      "}"
+    ],
+    "description": "media max width"
+  },
+
+  "before": {
+    "prefix": "bf",
+    "body": [
+      "&::before {",
+      "content: \"\";",
+      "width: ;",
+      "height: ;",
+      "}"
+    ],
+    "description": "before"
+  },
+
+  "after": {
+    "prefix": "af",
+    "body": [
+      "&::after {",
+      "content: \"\";",
+      "width: ;",
+      "height: ;",
+      "}"
+    ],
+    "description": "before"
+  }
 
 }

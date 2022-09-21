@@ -7,7 +7,7 @@ Fast CSS for Visual Studio Code
 Download the extension from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=CSSSnippetC7.css-snippet).
 
 ## Github 
-https://github.com/bafousaixz/css-snippet
+https://github.com/bafousaixz/css-snippete
 
 ## Table Snippets
 | Prefix | Description     | Conent           | 
@@ -20,3 +20,8 @@ https://github.com/bafousaixz/css-snippet
 | fsize-1   | Font size 1rem| font-size: 1rem; | 
 | c-black   | Color black| color: #000000; | 
 | c-while   | Color while| color: #FFFFFF; | 
+| content   | Content | content: ""; | 
+| border   | Border solid| border: 1px solid; | 
+| media-max   | Media max width| @media (max-width: ); | 
+| bf   | Before selector| &::before {<br>content: ""; <br>width: ;<br>height: ;<br>} | 
+| af   | After selector| &::before {<br>content: ""; <br>width: ;<br>height: ;<br>} | 

@@ -22,5 +22,8 @@
         "path": "./snippets/snippets.code-snippets"
       }
     ]
+  },
+  "dependencies": {
+    "vsce": "^1.79.1"
   }
 }
